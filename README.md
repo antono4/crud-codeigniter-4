@@ -1,2 +1,26 @@
-Last updated: 2026-09-02 06:46:34 WIB
-Last updated: 2026-09-02 07:05:24 WIB
+# crud-codeigniter-4
+
+
+
+## 📋 Overview
+
+This repository contains **362 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-02 07:27:13 WIB*
